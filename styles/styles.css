@@ -503,16 +503,6 @@ img {
     background-color: var(--black-color);
 }
 
-.footer__copy {
-    margin-top: 5rem;
-    text-align: center;
-}
-
-.footer__copy-link {
-    font-size: var(--smaller-font-size);
-    color: var(--text-color-light);
-}
-
 .scrollup {
     position: fixed;
     right: 1rem;
